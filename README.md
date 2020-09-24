@@ -1,5 +1,4 @@
-# BioNLP
-For my BioNLP Project
+# Identification and Classification of English Tweets on COVID-19
 
-This a repository that I will be using my for study project on Natural Language Processing next semester. 
-Coming soon. Stay tuned. 
+The datasets have been added to the zip file. 
+There are 10000 tweets. Training and validation data contain tweets labelled as informative or uniformative. 
