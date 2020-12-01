@@ -4,15 +4,17 @@ The datasets have been added to the zip file.
 There are 6000 tweets for training the dataset.
 There are 10000 tweets. Training and validation data contain tweets labelled as informative or uniformative. 
 
+Train labels were not made available therefore only val accuracies were evaulated. 
+
 ## We used the following approaches
-1. Gaussian Bayes
+1. Gaussian Bayes:
 	Training Accuracy - 0.956	Validation accuracy - 0.6735
-2. Logistic Regression
+2. Logistic Regression:
 Training Accuracy - 0.9819	Validation accuracy - 0.7993
-3. RNN with LSTM
+3. RNN with LSTM:
 Training Accuracy - 0.9442 	Validation Accuracy - 0.8248
-4. RNN with pre trained GloVe word embeddings
+4. RNN with pre trained GloVe word embeddings:
 Training Accuracy - 0.9221	Validation Accuracy - 0.8841
-5. BERT
+5. BERT:
 Training Accuracy - 0.99	Validation Accuracy - 0.97
 
