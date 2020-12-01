@@ -1,6 +1,6 @@
 # Identification and Classification of English Tweets on COVID-19
 
-The data was obtained from a CodaLabs competition and consists of training data, validation data and test data. 
+The data was obtained from a [CodaLabs competition](https://competitions.codalab.org/competitions/25845) and consists of training data, validation data and test data. 
 
 The datasets have been added to the zip file. 
 The following distribution has been provided by the organisers:
@@ -23,5 +23,15 @@ Training Accuracy - 0.9221	Validation Accuracy - 0.8841
 5. **BERT:**
 Training Accuracy - 0.99	Validation Accuracy - 0.97
 
-> All code was written in colab notebooks, to run the notebooks, simply open them in colab and change notebook settings to GPU for faster training. 
+All code was written in colab notebooks, to run the notebooks, simply open them in colab and change notebook settings to GPU for faster training. 
+Instructions to run are provided in the notebooks. 
+
+---
+
+## References:
+1. Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation.
+2. Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina 2018. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. arXiv preprint arXiv:1810.04805
+3. Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. Attention is all you need. In Advances in Neural Information Processing Systems, pages 6000–6010.
+4. Martin Müller, Marcel Salaté, Per E Kummervold. "COVID-Twitter-BERT: A Natural Language Processing Model to Analyse COVID-19 Content on Twitter" arXiv preprint arXiv:2005.07503 (2020).
+
 
